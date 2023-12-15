@@ -1,0 +1,17 @@
+.counter-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 1140px;
+    margin:auto;
+    background: red;
+    padding: 50px 0px;
+    margin: calc(100% - 85%) auto;
+}
+.counter-container .counting{
+    font-size: 60px;
+    font-weight: bold;
+
+
+}
+body{background: blue;}
